@@ -1,0 +1,61 @@
+body {
+  background-image: url('http://www.wallpapersonview.com/wallpapers/1/trains_impressive_high_quality_picture_background_8.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height:100%;
+  background-repeat:no-repeat;
+  font-family: 'Indie Flower', cursive;
+}
+.container {
+  padding-top: 10%;
+  text-align: center;
+}
+
+h1 {
+	color: black;
+}
+ul{
+  padding-top:10px;
+  width: auto;
+}
+#quote {
+	font-size: 30px;
+  color:black
+}
+
+#author{
+	color:black;
+	font-style: italic;
+	font-size: 20px;
+}
+.quotes{
+  background-color: rgb(218, 242, 234);
+  width:50%;
+  margin-right:auto;
+  margin-left:auto;
+  border-color:white;
+  border-style: 1.7px solid;
+  border-radius: 5px;
+  margin-top: 20px;
+  padding: 55px;
+  height:auto;
+  color:white;
+	opacity:1.2;
+	overflow:auto;
+  padding-top: 10px;
+  padding-bottom: 3px;
+  position: relative;
+}
+
+
+footer {
+	text-align: center;
+}
+h4 a{
+	color: black;
+}
+h4 a:hover{
+  color: black;
+}
